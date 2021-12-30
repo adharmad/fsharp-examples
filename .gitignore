@@ -93,3 +93,6 @@ msbuild.wrn
 .vs/
 
 docker/*.war
+
+# Fsharp ide
+.ionide
