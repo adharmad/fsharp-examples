@@ -1,5 +1,5 @@
 #light
-// Function composition
+// Using Pipe
 
 open System
 
